@@ -1,5 +1,3 @@
-Hi, 
- 
 Here are some samples of my work:
 
 - [Tutorial: How to use XYZ](tutorials/xyz.md)
