@@ -12,6 +12,7 @@ Here are some samples of my work:
 
 ## Education and Certificates
 - <a href="https://umanitoba.ca/extended-education/programs-and-courses/process-and-technology-management/artificial-intelligence" target="_blank" rel="noopener noreferrer">Developing Machine Learning Solutions</a> - University of Manitoba
-- [Release Notes]
-- [Configuration Content]
-- [Article: Best Practices in Docs](articles/best-practices.md)
+- <a href="https://www.senecapolytechnic.ca/programs/workshops/UXX.html" target="_blank" rel="noopener noreferrer">User Experience (UX) Writing</a> - Seneca College
+- <a href="https://junocollege.com/course/web-development/" target="_blank" rel="noopener noreferrer">Web Development</a> - Juno College of Technology
+- <a href="https://www.comptia.org/en/certifications/a/core-1-and-2-v15/" target="_blank" rel="noopener noreferrer">CompTIA A+</a>
+- <a href="https://students.carleton.ca/careers/bachelor-of-communication-and-media-studies/#communication-and-media-studies" target="_blank" rel="noopener noreferrer">Bachelor's degree in Communications</a> - Carleton University
