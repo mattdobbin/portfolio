@@ -1,4 +1,7 @@
-# Matt Dobbin
+---
+layout: default
+title: Matt Dobbin
+---
 
 ## About Me
 I’m a technical writer with experience in end-user and configuration documentation for enterprise software. APIs, SaaS, and developer docs.
