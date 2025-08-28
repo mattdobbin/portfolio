@@ -1,0 +1,8 @@
+title: "Technical Writing Portfolio"
+description: "The work of [Your Name] – tutorials, user guides, and API documentation samples."
+theme: jekyll-theme-cayman
+
+# Optional settings
+show_downloads: false
+github:
+  is_project_page: false
