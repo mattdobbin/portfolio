@@ -1,8 +1,8 @@
 Here are some samples of my work:
 
-- [Tutorial: How to use XYZ](tutorials/xyz.md)
 - [API Documentation Sample](docs/api.md)
 - [Release Notes]
+- [Configuration Content]
 - [Article: Best Practices in Docs](articles/best-practices.md)
 
 ## About Me
