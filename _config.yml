@@ -1,6 +1,6 @@
 title: "Technical Writing Portfolio"
 description: "The work of [Your Name] – tutorials, user guides, and API documentation samples."
-theme: jekyll-theme-modernist
+theme: jekyll-theme-slate
 
 # Optional settings
 show_downloads: false
