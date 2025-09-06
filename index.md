@@ -9,8 +9,7 @@ I’m a technical writer with experience in end-user and configuration documenta
 [View My Resume](resume.md)
 
 ## Portfolio
-<a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator Guide Examples</a>
-Screenshots of conceptual and procedural topics I created for the Dayforce Help Portal. The content was drafted in MadCap Flare and output to print and web.
+<a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator Guide Examples</a>: Screenshots of conceptual and procedural topics that I created for the Dayforce Help Portal. The content was drafted in MadCap Flare and output to print and web.
 
 
 ## Education and Certificates
