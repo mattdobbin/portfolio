@@ -9,12 +9,9 @@ I’m a technical writer with experience in end-user and configuration documenta
 [View My Resume](resume.md)
 
 ## Portfolio
-Here are some samples of my work:
+<a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator Guide Examples</a>
+Screenshots of conceptual and procedural topics I created for the Dayforce Help Portal. The content was drafted in MadCap Flare and output to print and web.
 
-- [API Documentation Sample](docs/api.md)
-- [Release Notes]
-- [Configuration Content]
-- [Article: Best Practices in Docs](articles/best-practices.md)
 
 ## Education and Certificates
 - <a href="https://umanitoba.ca/extended-education/programs-and-courses/process-and-technology-management/artificial-intelligence" target="_blank" rel="noopener noreferrer">Developing Machine Learning Solutions</a> - University of Manitoba
