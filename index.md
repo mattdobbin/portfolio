@@ -3,15 +3,20 @@ layout: default
 title: Matt Dobbin
 ---
 
+<!--
 ## About Me
 I’m a technical writer with experience in end-user and configuration documentation for enterprise software. APIs, SaaS, and developer docs.
 
 [View My Resume](resume.md)
+-->
 
 ## Portfolio
 - <a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator User Guide</a>: Screenshots of conceptual and procedural topics from the Dayforce Help Portal. The content was drafted in MadCap Flare and output to print and web.
 - <a href="assets/pdfs/API.pdf" target="_blank" rel="noopener">Developer Documentation</a>: Examples from the Web Services guide outlining how to update employee time data with API calls.
 
+
+
+[View My Resume](resume.md)
 <!--
 ## Education and Certificates
 - <a href="https://umanitoba.ca/extended-education/programs-and-courses/process-and-technology-management/artificial-intelligence" target="_blank" rel="noopener noreferrer">Developing Machine Learning Solutions</a> - University of Manitoba
