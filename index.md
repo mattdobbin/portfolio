@@ -11,12 +11,16 @@ I’m a technical writer with experience in end-user and configuration documenta
 -->
 
 ## Portfolio
-- <a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator User Guide</a>: Screenshots of conceptual and procedural topics from the Dayforce Help Portal. The content was drafted in MadCap Flare and output to print and web.
-- <a href="assets/pdfs/API.pdf" target="_blank" rel="noopener">Developer Documentation</a>: Examples from the Web Services guide outlining how to update employee time data with API calls.
-
+- <a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator Guide – Conceptual and procedural user guide topics for Administrative users</a>
+- <a href="assets/pdfs/API.pdf" target="_blank" rel="noopener">Developer Documentation: API-related documentation for technical users</a>
+- <a href="assets/pdfs/t1doc1.pdf" target="_blank" rel="noopener">Configuration Guide: Documentation for an internal configuration framework</a>
+- <a href="assets/pdfs/dfig.pdf" target="_blank" rel="noopener">Implementation Guide: Procedural topic for internal and external Implementation teams</a>
+- <a href="assets/pdfs/dfrn1.pdf" target="_blank" rel="noopener">Release Notes: New enhancement summaries in a MadCap Flaare PDF build</a>
+- <a href="assets/pdfs/dfbugs.pdf" target="_blank" rel="noopener">Release Notes: Bug fix summaries in an online help portal</a>
 
 
 [View My Resume](resume.md)
+
 <!--
 ## Education and Certificates
 - <a href="https://umanitoba.ca/extended-education/programs-and-courses/process-and-technology-management/artificial-intelligence" target="_blank" rel="noopener noreferrer">Developing Machine Learning Solutions</a> - University of Manitoba
