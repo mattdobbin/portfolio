@@ -11,13 +11,12 @@ I’m a technical writer with experience in end-user and configuration documenta
 -->
 
 ## Portfolio
-- <a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator Guide – Conceptual and procedural user guide topics for Administrative users</a>
+- <a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator Guide: Conceptual and procedural user guide topics for Administrative users</a>
+- <a href="assets/pdfs/dfig.pdf" target="_blank" rel="noopener">Implementation Guide: Procedural topic for internal and external Implementation teams</a>
 - <a href="assets/pdfs/API.pdf" target="_blank" rel="noopener">Developer Documentation: API-related documentation for technical users</a>
 - <a href="assets/pdfs/t1doc1.pdf" target="_blank" rel="noopener">Configuration Guide: Documentation for an internal configuration framework</a>
-- <a href="assets/pdfs/dfig.pdf" target="_blank" rel="noopener">Implementation Guide: Procedural topic for internal and external Implementation teams</a>
 - <a href="assets/pdfs/dfrn1.pdf" target="_blank" rel="noopener">Release Notes: New enhancement summaries in a MadCap Flaare PDF build</a>
 - <a href="assets/pdfs/dfbugs.pdf" target="_blank" rel="noopener">Release Notes: Bug fix summaries in an online help portal</a>
-
 
 [View My Resume](resume.md)
 
