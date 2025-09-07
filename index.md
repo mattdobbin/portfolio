@@ -13,7 +13,7 @@ I’m a technical writer with experience in end-user and configuration documenta
 ## Portfolio Writing Samples
 
 - <a href="assets/pdfs/dfig.jpg" target="_blank" rel="noopener">Implementation Guide</a>: Procedural topic for internal and external implementation teams
-- <a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Payroll Administrator Guide</a>: Conceptual and procedural topics for administrative users
+- <a href="assets/pdfs/ERR.pdf" target="_blank" rel="noopener">Administrator Guide</a>: Conceptual and procedural topics for administrative users
 - <a href="assets/pdfs/dfig2.jpg" target="_blank" rel="noopener">User Guide</a>: Procedural topic for end users
 - <a href="assets/pdfs/API.pdf" target="_blank" rel="noopener">Developer Documentation</a>: API-related documentation for technical users
 - <a href="assets/pdfs/t1doc1.pdf" target="_blank" rel="noopener">Configuration Guide</a>: Documentation for an internal configuration framework
