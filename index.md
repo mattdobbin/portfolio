@@ -31,3 +31,12 @@ I’m a technical writer with experience in end-user and configuration documenta
 - <a href="https://www.credly.com/badges/5275d9c2-932d-4f77-9f74-a62e65a6ad32/public_url" target="_blank" rel="noopener noreferrer">CompTIA A+</a>
 - <a href="https://students.carleton.ca/careers/bachelor-of-communication-and-media-studies/#communication-and-media-studies" target="_blank" rel="noopener noreferrer">Bachelor's degree in Communications</a> - Carleton University
 -->
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5SJX9GNX9B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-5SJX9GNX9B');
+</script>
+<!-- End Google Analytics -->
