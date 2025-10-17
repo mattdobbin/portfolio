@@ -20,7 +20,7 @@ I’m a technical writer with experience in end-user and configuration documenta
 - <a href="assets/pdfs/dfrn1.pdf" target="_blank" rel="noopener">Release Notes</a>: New enhancement summaries in a MadCap Flare PDF build
 - <a href="assets/pdfs/dfbugs.jpg" target="_blank" rel="noopener">Release Notes</a>: Bug fix summaries in an online help portal
 
-[View my resume](assets/pdfs/Matt Dobbin Resume - September 2025.pdf){:target="_blank"}
+[View my resume](assets/pdfs/Matt Dobbin Resume - October 2025.pdf){:target="_blank"}
 
 <!--
 ## Education and Certificates
