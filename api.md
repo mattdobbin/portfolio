@@ -1,13 +1,14 @@
-<section>
-  <h2>GET /api/users</h2>
-  <pre><code>fetch('/api/users').then(res => res.json())</code></pre>
-  <button id="run">Run Example</button>
-  <pre id="output"></pre>
+---
+layout: default
+title: API Documentation
+permalink: /api/
+---
 
-  <script>
-    document.getElementById('run').onclick = async () => {
-      const res = await fetch('/api/users');
-      document.getElementById('output').textContent = JSON.stringify(await res.json(), null, 2);
-    };
-  </script>
-</section>
+# API Documentation
+
+Welcome — this page proves API docs are working.
+
+## Example: GET /api/ping
+
+```bash
+curl https://your-api-endpoint.com/api/ping
